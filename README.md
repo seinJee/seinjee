@@ -1,2 +1,2 @@
-# tindog
-TinDog - HTML/CSS
+# seinJee
+HTML/CSS/Javascript
